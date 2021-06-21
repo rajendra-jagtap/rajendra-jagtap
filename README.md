@@ -22,4 +22,4 @@ I mostly work with Linux, AWS Cloud and Devops
 
 
 ### Github Stats
-![Rajendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajendra-jagtap&show_icons=true&theme=onedark)
+![Rajendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajendra-jagtap&show_icons=true&theme=merko)
