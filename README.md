@@ -1,6 +1,6 @@
-Hi,
+Hello,
 
-I'm Rajendra Jagtap, DevOps from India with 7+ years of working experience.<br />
+I'm Rajendra Jagtap, DevOps with 7+ years of working experience.<br />
 I mostly work with Linux, AWS Cloud and Devops
 
 
