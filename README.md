@@ -1,7 +1,7 @@
 Hi,
 
 I'm Rajendra Jagtap, DevOps from India with 7+ years of working experience.<br />
-I mostly work with Linux, AWS Cloud and Devops technologies
+I mostly work with Linux, AWS Cloud and Devops
 
 
 ### How to reach me?
@@ -14,6 +14,8 @@ I mostly work with Linux, AWS Cloud and Devops technologies
 
 ⦿ Kubernetes <br />
 ⦿ Python <br />
+
+
 
 
 ![](https://komarev.com/ghpvc/?username=rajendra-jagtap&color=brightgreen)
