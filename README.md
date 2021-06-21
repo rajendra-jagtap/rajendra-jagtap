@@ -19,3 +19,6 @@ I mostly work with Linux, AWS Cloud and Devops
 ### Profile Views
 
 ![](https://komarev.com/ghpvc/?username=rajendra-jagtap&color=brightgreen)
+
+
+![Rajendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajendra-jagtap&show_icons=true&theme=radical)
