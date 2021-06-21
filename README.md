@@ -10,11 +10,10 @@ I mostly work with Linux, AWS Cloud and Devops technologies
 ⦿ Drop Me an [Email](raj_jagtap10@rediffmail.com) <br />
 
 
-### I am currently learning
+### Currently learning
 
 ⦿ Kubernetes <br />
 ⦿ Python <br />
 
-Profile views
 
-![](https://komarev.com/ghpvc/?username=rajendra-jagtap&color=green)
+![](https://komarev.com/ghpvc/?username=rajendra-jagtap&color=brightgreen)
