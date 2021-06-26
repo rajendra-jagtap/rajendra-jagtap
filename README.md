@@ -7,8 +7,8 @@ I mostly work with Linux, AWS Cloud and Devops
 ### How to reach me?
 
 ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/rajendra-jagtap/) <br />
-⦿ Drop Me an [Email](raj_jagtap10@rediffmail.com) <br />
-
+⦿ Drop me an [Email](raj_jagtap10@rediffmail.com) <br />
+⦿ Follow me an [twitter](https://twitter.com/rajendra8595) <br />
 
 ### Currently learning
 
